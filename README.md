@@ -27,4 +27,4 @@ python demo.py
 フォルダ,ファイルの参照名は日本語を含まないでください
  
 # 記事
-<a href= "https://qiita.com/tachc/items/76a8066a29b3d2ed83f6" >SwapfaceのQuita記事</a>
+<a href= "https://qiita.com/tachc/items/76a8066a29b3d2ed83f6" >Swapfaceを説明したQuita記事</a>
