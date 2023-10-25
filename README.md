@@ -26,7 +26,11 @@
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
-pip install huga_package
+pip install opencv-python
+pip install opencv-contrib-python  //contrib (extra) モジュールも必要な場合
+pip install numpy
+pip install tkinter
+pip install Pillow
 ```
  
 # Usage
