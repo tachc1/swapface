@@ -41,15 +41,7 @@ python demo.py
  
 # Note
  
-注意点などがあれば書く
- 
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
+フォルダ,ファイルの参照名は日本語を含まないでください
  
 # 記事
 <a href= "https://qiita.com/tachc/items/76a8066a29b3d2ed83f6" >SwapfaceのQuita記事</a>
