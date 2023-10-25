@@ -12,9 +12,9 @@ pip install tkinter
 pip install Pillow
 ```
  
-# Usage
+# 使用方法
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+コマンドプロンプトやターミナルで
  
 ```bash
 git clone https://github.com/hoge/~
@@ -22,7 +22,7 @@ cd examples
 python demo.py
 ```
  
-# Note
+# ノート
  
 フォルダ,ファイルの参照名は日本語を含まないでください
  
