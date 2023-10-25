@@ -51,13 +51,5 @@ python demo.py
 * 所属
 * E-mail
  
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
-
+# 記事
 <a href= "https://qiita.com/tachc/items/76a8066a29b3d2ed83f6" >SwapfaceのQuita記事</a>
