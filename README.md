@@ -23,11 +23,11 @@
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+このアプリを動かすために必要なモジュールのインストール
  
 ```bash
 pip install opencv-python
-pip install opencv-contrib-python  //contrib (extra) モジュールも必要な場合
+pip install opencv-contrib-python
 pip install numpy
 pip install tkinter
 pip install Pillow
